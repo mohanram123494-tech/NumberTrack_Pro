@@ -5,6 +5,9 @@ A Python-based number information tool.
 Installation
 
 pkg update -y
+pkg install python -y
+pip install requests
+pkg update -y
 pkg install git python -y
 
 git clone https://github.com/mohanram123494-tech/NumberTrack_Pro.git
